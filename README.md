@@ -1,0 +1,1 @@
+# chatgpt-ai-name-validator
